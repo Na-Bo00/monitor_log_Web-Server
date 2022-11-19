@@ -1,0 +1,10 @@
+18-Nov-22 10:15:00 - https://google.com -> reachable!
+18-Nov-22 10:15:30 - https://google.com -> reachable!
+18-Nov-22 10:16:00 - https://google.com -> reachable!
+18-Nov-22 10:16:30 - https://google.com -> reachable!
+18-Nov-22 10:17:00 - https://google.com -> reachable!
+18-Nov-22 10:17:30 - https://google.com -> reachable!
+18-Nov-22 10:18:00 - https://google.com -> not reachable!
+18-Nov-22 10:18:30 - https://google.com -> not reachable!
+18-Nov-22 10:19:00 - https://google.com -> reachable!
+
