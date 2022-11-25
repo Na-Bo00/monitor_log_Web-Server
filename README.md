@@ -20,10 +20,10 @@ A user can stop the program by presseing **ANY** key available on the keyboard.
 This program has no GUI because it was developed as a console application.
 
 ## Contact
-If you have any questions, face any problems or have any improvment suggestions do not hesitate to open a new [issue](https://github.com/Na-Bo00/monitor_log_Web-Server/issues/new).
+If you have any questions, face any problems or have any improvment suggestions do not hesitate to open a new [issue](https://github.com/NaBo-00/monitor_log_Web-Server/issues/new).
 
 ---
-Made by Na-Bo00 | Copyright (c) Na-Bo00
+Made by NaBo-00 | Copyright (c) NaBo-00
 
 <!--Made by Na-Bo00 ![Na-Bo00-Logo.jpg](Na-Bo00-Logo.jpg "Na-Bo00-Logo")--!>
-<div><img alt="Na-Bo00-Logo.jpg" src="https://github.com/Na-Bo00/monitor_log_Web-Server/blob/main/Na-Bo00-Logo.jpg" width="100" height="35" /></div>
+<div><img alt="NaBo-00-logo.png" src="NaBo-00-logo.png" width="100" height="35" /></div>
