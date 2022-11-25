@@ -26,4 +26,4 @@ If you have any questions, face any problems or have any improvment suggestions 
 Made by NaBo-00 | Copyright (c) NaBo-00
 
 <!--Made by Na-Bo00 ![Na-Bo00-Logo.jpg](Na-Bo00-Logo.jpg "Na-Bo00-Logo")--!>
-<div><img alt="NaBo-00-logo.png" src="NaBo-00-logo.png" width="100" height="35" /></div>
+<div><img alt="NaBo-00-logo.png" src="NaBo-00-logo.png" width="100" height="60" /></div>
